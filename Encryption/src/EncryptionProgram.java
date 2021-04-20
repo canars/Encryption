@@ -130,7 +130,7 @@ public class EncryptionProgram
 
     private void quit()
     {
-        System.out.println("thanks");
+        System.out.println("Thank you for visiting my little encryption program :-)");
         System.exit(0);
     }
 }
