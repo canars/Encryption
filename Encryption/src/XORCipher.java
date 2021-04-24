@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+
+//for University..
 public class XORCipher {
     private static Scanner in;
     public static void main(String[] args){
