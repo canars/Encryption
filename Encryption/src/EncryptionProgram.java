@@ -2,6 +2,7 @@ import java.util.*;
 
 public class EncryptionProgram
 {
+    //my Programm.
 
     private Scanner scanner;
     private Random random;
